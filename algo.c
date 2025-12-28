@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a, b;
-    printf("Enter two numbers:\n");
-    scanf("%d%d", &a, &b);
-    printf("The sum is: %d\n", a + b);
+    printf("This is the code from me.\n");
+    printf("I am the user: anicode-code.\n");
     return 0;
 }
